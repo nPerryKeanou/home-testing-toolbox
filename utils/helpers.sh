@@ -1,0 +1,1 @@
+#Centralisations de fonctions utiles(par ex: choose_email, gestion de fichiers tmp, affichage menu,...)
